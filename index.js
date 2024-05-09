@@ -100,4 +100,4 @@ function betterThanAverage(classPoints, yourPoints) {
     classPoints.map(item => {
 
     })
-}
+} 
